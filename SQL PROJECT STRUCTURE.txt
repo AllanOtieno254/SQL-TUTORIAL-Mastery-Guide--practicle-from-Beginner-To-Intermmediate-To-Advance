@@ -1,0 +1,33 @@
+SQL-Mastery-Guide/
+│
+├── Basic_SQL/
+│   ├── 01_Creating_Tables.sql
+│   ├── 02_Inserting_Values.sql
+│   ├── 03_Creating_Databases.sql
+│   ├── 04_Viewing_Tables.sql
+│   └── ... (Other Basic SQL topics)
+│
+├── Intermediate_SQL/
+│   ├── 01_Joins.sql
+│   ├── 02_Union.sql
+│   ├── 03_Case_Statement.sql
+│   ├── 04_Updating_Deleting_Data.sql
+│   └── ... (Other Intermediate SQL topics)
+│
+├── Advanced_SQL/
+│   ├── 01_CTEs.sql
+│   ├── 02_SYS_Tables.sql
+│   ├── 03_Subqueries.sql
+│   ├── 04_Temp_Tables.sql
+│   └── ... (Other Advanced SQL topics)
+│
+├── Data/
+│   ├── SampleData.csv
+│   ├── SampleData.xlsx
+│   └── ... (Other data files)
+│
+├── Images/
+│   ├── SQL_Roadmap.png
+│   └── ... (Other images related to the project)
+│
+└── README.md
