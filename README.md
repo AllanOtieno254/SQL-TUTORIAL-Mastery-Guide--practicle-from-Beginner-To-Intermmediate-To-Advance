@@ -35,3 +35,4 @@ CREATE TABLE Students (
     Age INT,
     Major VARCHAR(50)
 );
+
