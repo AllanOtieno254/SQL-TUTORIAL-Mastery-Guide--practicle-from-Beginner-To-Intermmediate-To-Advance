@@ -1,0 +1,11 @@
+ADVACED SQL
+
+CTEs
+SYS Tables
+Subqueries
+Temp Tables
+String Functions (TRIM,LTRIM,RTRIM,Replace,Substring,upper,lower)
+Regular expression
+Stored Procedures
+Importing Data From different file types/sources
+exporting data to different file types

@@ -1,0 +1,13 @@
+INTERMEDIATE SQL
+
+Joins
+union
+case statement
+updating/deleting data
+Partitioning By
+Data Types
+Aliasing
+Creating Views
+Having vs Group By statement
+GETDATE()
+Primary ey vs Foreign Key
