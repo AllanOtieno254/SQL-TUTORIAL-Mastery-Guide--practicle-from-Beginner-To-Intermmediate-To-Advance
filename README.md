@@ -24,7 +24,7 @@ SQL (Structured Query Language) is a powerful tool  for managing and manipulatin
 - Creating Tables
 - Viewing Tables
 - Inserting Values
-- Creating Databases
+- Creating Databases 
 - Interacting with MySQL Server Management System
 
 ### Sample Code:
