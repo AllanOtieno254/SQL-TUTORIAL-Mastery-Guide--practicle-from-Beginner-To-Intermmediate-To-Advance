@@ -19,7 +19,7 @@ Welcome to the SQL Mastery Guide! This repository is a comprehensive resource fo
 SQL (Structured Query Language) is a powerful tool  for managing and manipulating databases. This guide will take you through the fundamentals of SQL, starting from the basics and progressing to advanced techniques used in real-world scenarios.
 
 ## Basic SQL
-
+ 
 ### Topics Covered:
 - Creating Tables
 - Viewing Tables
