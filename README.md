@@ -12,7 +12,7 @@ Welcome to the SQL Mastery Guide! This repository is a comprehensive resource fo
 6. [How to Use This Repository](#how-to-use-this-repository)
 7. [Project Files](#project-files)
 8. [License](#license)
-
+ 
 
 ## Introduction
 
