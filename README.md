@@ -2,7 +2,7 @@
  
 Welcome to the SQL Mastery Guide! This repository is a comprehensive resource for learning SQL, covering basic, intermediate, and advanced topics. Whether you're new to SQL or looking to enhance your skills, this guide provides everything you need to master SQL.
 
-## Table of Contents
+## Table of Contents 
 
 1. [Introduction](#introduction)
 2. [Basic SQL](#basic-sql)
